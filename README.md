@@ -1,7 +1,7 @@
 # version_compare (1.0.0) [![Build Status](https://travis-ci.org/unicorn-fail/version_compare.svg?branch=master)](https://travis-ci.org/unicorn-fail/version_compare)
 
 
-> Compare [semantic] versions in Bash, comparable to PHP's version_compare function.
+> Compares [semantic versions (1.0.0)](http://semver.org/spec/v1.0.0.html) versions in Bash, comparable to PHP's version_compare function.
 
 ## Usage
 `version_compare [-hV] <version1> <version2> [<operator>]`
